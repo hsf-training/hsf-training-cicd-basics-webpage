@@ -10,9 +10,9 @@ jobs:
 
       - name: Build
         run: |
-          docker run --rm \
-          --volume="${{ github.workspace }}:/home/rstudio" \
-          carpentries/lesson-docker:latest /bin/bash -c "gem install bundler && \ 
+          docker run --rm --volume="${{ github.workspace }}:/home/rstudio" \
+          carpentries/lesson-docker:latest /bin/bash -c \
+          "gem install bundler && \ 
           bundle config --local set path .vendor/bundle && \
           bundle install && \
           bundle exec jekyll build --trace"
