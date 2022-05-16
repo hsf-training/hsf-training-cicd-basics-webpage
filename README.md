@@ -1,3 +1,4 @@
+[![github pages](https://github.com/hsf-training/hsf-training-cicd-basics-webpage/actions/workflows/website.yml/badge.svg)](https://github.com/hsf-training/hsf-training-cicd-basics-webpage/actions/workflows/website.yml)
 [![HSF Training Center](https://img.shields.io/badge/HSF%20Training%20Center-browse-ff69b4)](https://hepsoftwarefoundation.org/training/curriculum.html)
 
 HSF Training: CI/CD Basics
