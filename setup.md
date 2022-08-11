@@ -10,10 +10,3 @@ questions:
 > This assumes that you can use shell in combination with your favorite text editor and have python installed on your computer.
 >
 {: .prereq}
-
-
-
-
-
-
-
