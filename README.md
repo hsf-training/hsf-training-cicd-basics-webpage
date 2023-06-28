@@ -8,7 +8,7 @@
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hsf-training/hsf-training-cicd-basics-webpage/main.svg)](https://results.pre-commit.ci/latest/github/hsf-training/hsf-training-cicd-basics-webpage/main)
 [![pages-build-deployment](https://github.com/hsf-training/hsf-training-cicd-basics-webpage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hsf-training/hsf-training-cicd-basics-webpage/actions/workflows/pages/pages-build-deployment)
 
-# Title of the lesson
+# HSF Training: CI/CD Basics
 
 > **Note**
 > Click [here](https://hsf-training.github.io/hsf-training-cicd-basics-webpage/) for the training website!
